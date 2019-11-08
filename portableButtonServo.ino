@@ -1,7 +1,7 @@
 #include <Servo.h>
-//Johnny Krosby, Lucy Gray
 //Portable Button Servo
-//description
+//Johnny Krosby, Lucy Gray
+//Continuous servo controled by buttons
 
 Servo myServo;
 
